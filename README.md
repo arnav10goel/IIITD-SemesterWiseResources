@@ -10,7 +10,7 @@ Note: You will find the solutions of most of the coding assignments on my GitHub
 * Notes by the amazing [Medha Hira](https://www.linkedin.com/in/medhahira/). (added in 2 parts)
 * [Neso Academy DC Playlist](https://www.youtube.com/playlist?list=PLBlnK6fEyqRjMH3mWf6kwqiTbT798eAOm) 
 
-### 2. Linear Algebra (LA) - ECE111: 
+### 2. Linear Algebra (LA) - MTH101: 
 * Midsem and Endsem '19 and '20, '21 and Programming Assignment.
 * [3Blue1Brown](https://www.youtube.com/playlist?list=PL0-GT3co4r2y2YErbmuJw2L5tW4Ew2O5Bm) 
 * [Gajendra Purohit - Vector Spaces](https://www.youtube.com/playlist?list=PLU6SqdYcYsfJOGZdxUpDk3w9o-w94-RoG)  
