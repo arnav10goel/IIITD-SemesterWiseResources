@@ -20,3 +20,29 @@ Note: You will find the solutions of most of the coding assignments on my GitHub
 * Practice Sets (really helpful for practicing good Python Problems)
 * Midsem and Endsem '21
 * Assignments, link to the repo with their solutions: [Solution-IP-Assignments](https://github.com/arnav10goel/IP-Assignments)
+
+## Semester 2 - Winter 2022
+### 1. Computer Organisation (CO) - CSE112: 
+* Uploaded Quizzes, Practice Problems and Midsem'22. 
+* [CO Playlist by Prof. Smruti Sarangi, IITD](https://www.youtube.com/playlist?list=PL1iLu2CSC9EWAo0ysorNI_nebwF6Rwkr0) - Highly recommended as we follow his textbook in the course. 
+* [CO Playlist by Prof. Sujay Deb, IIITD](https://www.youtube.com/playlist?list=PLL7q95_bHxC56PtT1t-21A-NmUf7yBjGs) - Playlist by our own CO prof, highly recommend it too.
+* [Link to my CO Project implementing a Simple Custom Assembler and Simulator](https://github.com/arnav10goel/Computer-Organisation-Project) - Uploaded the project PDF for our year
+
+### 2. Probability and Statistics (PnS) - MTH102: 
+* Quizzes, Homeworks, Midsem and Endsem given by Prof. Sanjit Kaul in Winter Sem'22. Would recommend you to solve it throughly as sir often repeats concepts across years.
+* Uploaded Coding Assignment for the same.
+* Would highly recommend reading and solving the book as it is really well written. You can find the PDF from Aflah's GitHub repo for resources. 
+* Would also recommend attending all your lectures (won't find a better resource than that!!)
+ 
+
+### 3. Data Structures and Algorithms (DSA) - CSE102:
+* To be uploaded
+
+### 4. Introduction to Intelligent Systems (IIS) - CSE142:
+* To be uploaded
+
+### 5. Basic Electronics (BE) - ECE113:
+* To be uploaded
+
+### 6. Money and Banking (MB):
+* Do the Question Bank properly, there is no other way to score!!
