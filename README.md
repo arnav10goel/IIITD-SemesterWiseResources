@@ -36,13 +36,23 @@ Note: You will find the solutions of most of the coding assignments on my GitHub
  
 
 ### 3. Data Structures and Algorithms (DSA) - CSE102:
-* To be uploaded
+* [Mycodeschool](https://www.youtube.com/@mycodeschool) - Probably the best YouTube channel for understanding Data Structures and Algorithms in C
 
 ### 4. Introduction to Intelligent Systems (IIS) - CSE142:
-* To be uploaded
+* [Assignment 2 - Travel Recommendation on Prolog](https://github.com/arnav10goel/Travel-Recommendation-System)
+* [Assignment 3a - Linear Regression](https://github.com/arnav10goel/Insurance-Charges-Predictor)
+* [Assignment 3b - Logistic Regression](https://github.com/arnav10goel/Diabetes-Predictor)
 
-### 5. Basic Electronics (BE) - ECE113:
-* To be uploaded
-
-### 6. Money and Banking (MB):
+### 5. Money and Banking (MB):
 * Do the Question Bank properly, there is no other way to score!!
+
+## Semester 3 - Monsoon 2022
+### 1. Operating Systems (OS) - CSE231:
+* [Assignments Monsoon 2022](https://github.com/arnav10goel/Operating-Systems-CSE231-Assignments)
+
+### 2. Signals and Systems (SnS) - ECE250:
+* [SnS Programming Assignments](https://github.com/arnav10goel/Signals-and-Systems-Prog-Assignments) - Codes of all Programming Assignments given as part of the course Signals and Systems
+* [NPTEL Playlist by IISER](https://www.youtube.com/playlist?list=PLyqSpQzTE6M8KJ-XQ1m2vl3nd2ZUqKEN8) - Good Playlist from IISER on Signals and Systems
+* [MIT Lectures](https://www.youtube.com/playlist?list=PLADC1A1B7FA7FF7B6)
+* [Neso Academy Playlist](https://www.youtube.com/playlist?list=PLBlnK6fEyqRhG6s3jYIU48CqsT5cyiDTO)
+* Try to attend classes regularly and make notes which will help in the weekly quizzes 
