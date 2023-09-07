@@ -49,10 +49,26 @@ Note: You will find the solutions of most of the coding assignments on my GitHub
 ## Semester 3 - Monsoon 2022
 ### 1. Operating Systems (OS) - CSE231:
 * [Assignments Monsoon 2022](https://github.com/arnav10goel/Operating-Systems-CSE231-Assignments)
+* [My OS Notes](https://docs.google.com/document/d/1ai8fkGPbsh3kjztFDDm62vpKZTbVGyWeTh2X6nMqQcg/edit?usp=sharing) - Notes made by me during Monsoon 2022 (pardon if raw at places :)
+* Uploaded the Midsem, Endsem from Monsoon 2022
+* [Gate Smashers OS](https://www.youtube.com/playlist?list=PLxCzCOWd7aiGz9donHRrE9I3Mwn6XdP8p)
+* [Neso OS](https://www.youtube.com/playlist?list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O)
+* Refer to the books: OStep and Linux Kernel Development
 
 ### 2. Signals and Systems (SnS) - ECE250:
 * [SnS Programming Assignments](https://github.com/arnav10goel/Signals-and-Systems-Prog-Assignments) - Codes of all Programming Assignments given as part of the course Signals and Systems
 * [NPTEL Playlist by IISER](https://www.youtube.com/playlist?list=PLyqSpQzTE6M8KJ-XQ1m2vl3nd2ZUqKEN8) - Good Playlist from IISER on Signals and Systems
 * [MIT Lectures](https://www.youtube.com/playlist?list=PLADC1A1B7FA7FF7B6)
 * [Neso Academy Playlist](https://www.youtube.com/playlist?list=PLBlnK6fEyqRhG6s3jYIU48CqsT5cyiDTO)
-* Try to attend classes regularly and make notes which will help in the weekly quizzes 
+* Try to attend classes regularly and make notes which will help in the weekly quizzes
+
+### 3. Advanced Programming (AP) - CSE201:
+* [AP Project'22 - Tank Stars](https://github.com/arnav10goel/Tank-Stars-Game)
+* Uploaded the Quizzes from Monsoon 2022.
+* [Bro Code Course](https://www.youtube.com/watch?v=xk4_1vDrzzo&pp=ygUEamF2YQ%3D%3D) - I referred to this
+* [UML Class Diagram](https://www.youtube.com/watch?v=UI6lqHOVHic&list=PLUoebdZqEHTxpGCwKrb82cIvHNoNaBb4R&index=2&pp=iAQB)
+* [UML Use Case Diagram](https://www.youtube.com/watch?v=zid-MVo7M-E&list=PLUoebdZqEHTxpGCwKrb82cIvHNoNaBb4R&index=3&pp=iAQB)
+
+### 4. Multivariate Calculus (M-III) - MTH 203:
+* Uploaded the midsem and endsem from Monsoon 2022
+* Try to do the book(s) diligently.
